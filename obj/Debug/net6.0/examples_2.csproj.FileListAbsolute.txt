@@ -1,0 +1,15 @@
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/bin/Debug/net6.0/examples_2
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/bin/Debug/net6.0/examples_2.deps.json
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/bin/Debug/net6.0/examples_2.runtimeconfig.json
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/bin/Debug/net6.0/examples_2.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/bin/Debug/net6.0/examples_2.pdb
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.csproj.AssemblyReference.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.AssemblyInfo.cs
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/refint/examples_2.dll
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.pdb
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/examples_2.genruntimeconfig.cache
+/Users/administrator/Desktop/Разработчик_обучение/1 четверть/C#/task0/examples_2/obj/Debug/net6.0/ref/examples_2.dll
